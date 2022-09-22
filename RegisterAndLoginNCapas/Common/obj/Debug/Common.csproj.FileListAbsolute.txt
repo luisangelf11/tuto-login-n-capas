@@ -1,0 +1,6 @@
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Common\bin\Debug\Common.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Common\bin\Debug\Common.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Common\obj\Debug\Common.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Common\obj\Debug\Common.pdb

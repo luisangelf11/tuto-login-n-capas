@@ -1,0 +1,11 @@
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Domain.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Common.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\Common.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.dll
+C:\Users\Luis Angel\source\repos\RegisterAndLoginNCapas\Domain\obj\Debug\Domain.pdb
